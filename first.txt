@@ -1,0 +1,2 @@
+my first Git text
+Git is free software
